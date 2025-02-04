@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hng12-stage-1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68ad8e18dd0ed5afada8eb97447fabee0ca5f813")]
 [assembly: System.Reflection.AssemblyProductAttribute("hng12-stage-1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hng12-stage-1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
