@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace hng12_stage_1.Controllers
 {
@@ -58,19 +59,15 @@ namespace hng12_stage_1.Controllers
             return sum == number;
         }
 
-        private string[] Properties(int num)
+        private string[] Properties(int number)
         {
             List<string> properties = new List<string>();
-            if (IsPrime(num))
-                properties.Add("prime");
 
-            if (IsPerfect(num))
-                properties.Add("perfect");
-
-            if (IsArmstrong(num))
+            if (IsArmstrong(number))
                 properties.Add("armstrong");
 
-            properties.Add(num % 2 == 0 ? "even" : "odd");
+            if (number % 2 == 0) properties.Add("even");
+            else properties.Add("odd");
 
             return properties.ToArray();
         }

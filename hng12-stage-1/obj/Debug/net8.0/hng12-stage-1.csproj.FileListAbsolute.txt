@@ -34,3 +34,4 @@ C:\Users\adeye\source\repos\hng12-stage-1\hng12-stage-1\obj\Debug\net8.0\refint\
 C:\Users\adeye\source\repos\hng12-stage-1\hng12-stage-1\obj\Debug\net8.0\hng12-stage-1.pdb
 C:\Users\adeye\source\repos\hng12-stage-1\hng12-stage-1\obj\Debug\net8.0\hng12-stage-1.genruntimeconfig.cache
 C:\Users\adeye\source\repos\hng12-stage-1\hng12-stage-1\obj\Debug\net8.0\ref\hng12-stage-1.dll
+C:\Users\adeye\source\repos\hng12-stage-1\hng12-stage-1\obj\Debug\net8.0\hng12-stage-1.sourcelink.json
