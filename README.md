@@ -16,7 +16,7 @@ This is a simple **Number Classification API** that takes a number as input and 
 ## API Documentation
 ### **Endpoint:**
 ```
-GET <your-render-api-url>/api/classify-number?number=<integer>
+GET https://hng12-stage-1-sp1a.onrender.com/api/classify-number?number=371
 ```
 
 ### **Response Format (200 OK):**
@@ -53,12 +53,6 @@ cd hng12-stage-1
 ### **Run Locally**
 ```sh
 dotnet run
-```
-
-## Deployment
-This API is deployed on **Render** and is accessible publicly at:
-```
-https://render
 ```
 
 ## References
